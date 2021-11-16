@@ -9,13 +9,13 @@
 
 ## Models
 
-- Bookmarks: title, url
+- Bookmarks: city, country, img, description, attractions
 
 ## Route Table
 
 | Route         | Description   | 
 | ------------- | -------------:| 
-| Create      | Posting a new bookmark |
-| Read      | Getting all bookmarks |
-| Update | Updating a bookmark |
-| Delete | Deleting a bookmark |
+| Create      | Posting a new location |
+| Read      | Getting all locations |
+| Update | Updating a location |
+| Delete | Deleting a location |
